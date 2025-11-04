@@ -21,7 +21,7 @@ El crecimiento continúa hasta 2025, lo que sugiere que aún hay margen de expan
 ## 🌍 Análisis de uso promedio de redes sociales por país (2025)
 
 **Gráfico:**  
-![Horas semanales promedio](../graficos/horas_semanales_promedio.png)
+![Horas semanales promedio](graficos/horas_semanales_promedio.png)
 
 **Fuente:** DataReportal 2025
 
@@ -40,7 +40,7 @@ El patrón general confirma que el tiempo de exposición a redes sociales contin
 ## ⏱️ Análisis de uso promedio diario en redes sociales por país (2025)
 
 **Gráfico:**  
-![Minutos diarios promedio](../graficos/minutos_diarios_promedio.png)
+![Minutos diarios promedio](graficos/minutos_diarios_promedio.png)
 
 **Fuente:** DataReportal 2025
 
@@ -60,7 +60,7 @@ En conjunto, los datos confirman un **alto nivel de exposición diaria** a redes
 ## ⚖️ Análisis comparativo: horas semanales vs minutos diarios (2025)
 
 **Gráfico:**  
-![Comparación horas-minutos](../graficos/comparacion_horas_minutos.png)
+![Comparación horas-minutos](graficos/comparacion_horas_minutos.png)
 
 **Fuente:** DataReportal 2025
 
@@ -83,7 +83,7 @@ Las diferencias entre países podrían vincularse a factores **culturales, acces
 ## 🌐 Análisis de evolución global de usuarios y tiempo de uso (2010–2025)
 
 **Gráfico:**  
-![Evolución usuarios 2010–2025](../graficos/evolucion_usuarios_2010_2025.png)
+![Evolución usuarios 2010–2025](graficos/evolucion_usuarios_2010_2025.png)
 
 **Fuente:** Backlinko (2010–2019) y DataReportal (2020–2025)
 
